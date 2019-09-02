@@ -237,10 +237,6 @@ h6 {
   margin: 0;
   padding: 0; }
 
-  ion-icon {
-  font-size: 64px;
-}
-
 h1,
 h2,
 h3,
@@ -6983,4 +6979,3 @@ label.panel-block {
 .footer {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
-
