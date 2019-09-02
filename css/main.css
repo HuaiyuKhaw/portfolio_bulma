@@ -396,9 +396,6 @@ table th {
   color: #363636; }
 
 
-ion-icon {
-  font-size: 64px;
-}
 
 
 
@@ -6987,6 +6984,6 @@ label.panel-block {
 /* custom */
 
 ion-icon {
-  font-size: 64px;
+  font-size: 96px;
 }
 
