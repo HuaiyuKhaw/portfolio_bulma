@@ -395,6 +395,13 @@ table th {
 table th {
   color: #363636; }
 
+
+ion-icon {
+  font-size: 64px;
+}
+
+
+
 .is-clearfix::after {
   clear: both;
   content: " ";
